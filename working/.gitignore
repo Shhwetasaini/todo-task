@@ -1,0 +1,5 @@
+.env
+*/migrations/
+git rm -r --cached */migrations/
+git rm -r --cached media/
+git add */migrations/__init__.py
